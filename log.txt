@@ -1,0 +1,4 @@
+ proadmin01          			ryzenadmin20        
+ staff01             			stafpertama         
+ staff02             			stafkedua           
+ staff03             			stafketiga          
